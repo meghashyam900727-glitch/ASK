@@ -132,11 +132,12 @@ plt.tight_layout()
 plt.show()
 ```
 # output waveform
-```
 
-```
+<img width="992" height="657" alt="image" src="https://github.com/user-attachments/assets/4b550355-5c53-4246-8aec-0c6423162ba1" />
+<img width="1201" height="1012" alt="image" src="https://github.com/user-attachments/assets/fc44bb87-b8c1-4dbc-88c1-fe35a7aefac0" />
+
 # Results
 ```
-
+thus, a simple Python program for the modulation and demodulation of ASK and FSK is verified
 ```
 # Hardware experiment output waveform.
